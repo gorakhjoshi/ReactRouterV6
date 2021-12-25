@@ -12,8 +12,8 @@
 
 ## 4. React Router Advanced Concepts
 
-- [ ] Nested Routes and <Outlet />
-- [ ] Fetching Data in Nested Routes
+- [x] `<Outlet />`
+- [x] Fetching Data in Nested Routes
 - [ ] Relative and Absolute Navigation with <Link />
 - [ ] Creating Dynamic Routes
 - [ ] Reading Route Params with useParams() Hook

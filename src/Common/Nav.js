@@ -17,10 +17,17 @@ const NavStyles = css`
 
 const Nav = () => (
   <nav className={NavStyles}>
-    <NavLink to='/' activeClassName='active' end>
+    <NavLink
+      to='/'
+      className={({ isActive }) => (isActive ? 'active' : '')}
+      end
+    >
       Products
     </NavLink>
-    <NavLink to='/admin' activeClassName='active'>
+    <NavLink
+      to='/admin'
+      className={({ isActive }) => (isActive ? 'active' : '')}
+    >
       Admin
     </NavLink>
   </nav>
