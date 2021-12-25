@@ -6,9 +6,10 @@ import {
 } from 'react-router-dom';
 import { css } from '@emotion/css';
 
-import Products from './Products/Products';
-import Admin from './Admin/Admin';
 import Nav from './Common/Nav';
+import Products from './Products/Products';
+import ProductsIndex from './Products/ProductsIndex';
+import Admin from './Admin/Admin';
 
 const AppStyles = css`
   margin: 50px auto;
@@ -28,7 +29,9 @@ const App = () => {
         <div className='Container'>
           <Nav />
           <Routes>
-            <Route path='/' element={<Products />} />
+            <Route path='/' element={<Products />}>
+              <Route path='/' element={<ProductsIndex />} />
+            </Route>
             <Route path='/admin' element={<Admin />} />
             <Route path='*' element={<Navigate to='/' />} />
           </Routes>

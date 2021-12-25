@@ -4,15 +4,13 @@
 
 - [x] Introduction to React Router V6 and Installation with Create React App
 
-## 2. React Router Basics
+## 2. React Router Basics Concepts
 
 - [x] `<BrowserRouter />, <Routes /> & <Route />`
 - [x] `<Navigate /> & <Link />`
-- [ ] Navigating to routes with <Link />
-- [ ] Active link states with <NavLink />
-- [ ] Active styles on <NavLink />
+- [x] `<NavLink />`
 
-## 4. Advanced Routing Practices
+## 4. React Router Advanced Concepts
 
 - [ ] Nested Routes and <Outlet />
 - [ ] Fetching Data in Nested Routes
