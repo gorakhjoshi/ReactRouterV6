@@ -2,8 +2,8 @@
 
 ## 1. Introduction
 
-- [ ] The Missing Introduction to React Router
-- [ ] Project Walkthrough and Install
+- [x] The Missing Introduction to React Router
+- [x] Project Walkthrough and Install
 
 ## 2. Core Essentials
 
