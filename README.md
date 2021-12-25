@@ -4,16 +4,10 @@
 
 - [x] Introduction to React Router V6 and Installation with Create React App
 
-## 2. Core Essentials
+## 2. React Router Basics
 
-- [ ] Introducing the <BrowserRouter />
-- [ ] <Route /> and Path declarations
-- [ ] Switching <Route /> elements with <Routes />
-- [ ] Handling 404 Not Found routes
-- [ ] Redirecting 404 Not Found routes
-
-## 3. Declarative Navigation and Links
-
+- [x] `<BrowserRouter />, <Routes /> & <Route />`
+- [x] `<Navigate /> & <Link />`
 - [ ] Navigating to routes with <Link />
 - [ ] Active link states with <NavLink />
 - [ ] Active styles on <NavLink />

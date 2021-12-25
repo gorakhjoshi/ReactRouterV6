@@ -1,8 +1,14 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Navigate,
+} from 'react-router-dom';
 import { css } from '@emotion/css';
 
 import Products from './Products/Products';
 import Admin from './Admin/Admin';
+import Nav from './Common/Nav';
 
 const AppStyles = css`
   margin: 50px auto;
@@ -20,9 +26,11 @@ const App = () => {
     <div className={AppStyles}>
       <Router>
         <div className='Container'>
+          <Nav />
           <Routes>
             <Route path='/' element={<Products />} />
             <Route path='/admin' element={<Admin />} />
+            <Route path='*' element={<Navigate to='/' />} />
           </Routes>
         </div>
       </Router>
