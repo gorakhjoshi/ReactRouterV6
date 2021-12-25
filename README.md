@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Course Syllabus
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1. Introduction
 
-## Available Scripts
+- [ ] The Missing Introduction to React Router
+- [ ] Project Walkthrough and Install
 
-In the project directory, you can run:
+## 2. Core Essentials
 
-### `yarn start`
+- [ ] Introducing the <BrowserRouter />
+- [ ] <Route /> and Path declarations
+- [ ] Switching <Route /> elements with <Routes />
+- [ ] Handling 404 Not Found routes
+- [ ] Redirecting 404 Not Found routes
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 3. Declarative Navigation and Links
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [ ] Navigating to routes with <Link />
+- [ ] Active link states with <NavLink />
+- [ ] Active styles on <NavLink />
 
-### `yarn test`
+## 4. Advanced Routing Practices
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [ ] Nested Routes and <Outlet />
+- [ ] Fetching Data in Nested Routes
+- [ ] Relative and Absolute Navigation with <Link />
+- [ ] Creating Dynamic Routes
+- [ ] Reading Route Params with useParams() Hook
+- [ ] Fetching Dynamic Data with Route Params
+- [ ] Programmatic Navigation with useNavigate()
+- [ ] Replacing Router State on Navigation
+- [ ] Passing State on Navigation alongside useLocation()
+- [ ] Understanding Navigation Deltas with useNavigate()
+- [ ] Domain-Driven Nested Routes
+- [ ] Restricting Access with a <ProtectedRoute /> Component
 
-### `yarn build`
+## 5. CRUD Operations and Bonus Techniques
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [ ] Re-investigating Relative <Link /> Paths
+- [ ] Using <Link /> with Nested Routes
+- [ ] Creating a new Product from a Form
+- [ ] Redirecting upon Product Create
+- [ ] Retrieving an existing Product
+- [ ] Updating an existing Product
+- [ ] Deleting an existing Product
+- [ ] Passing Props to Routed Components
+- [ ] Reading Search Params with useSearchParams()
+- [ ] Syncing Search Param State with UI State
+- [ ] Rendering UI from Search Param State
+- [ ] Scrolling to Top after Route Transitions
+- [ ] Object-based Route Config with useRoutes()
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 6. Performance Techniques
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [ ] Code Splitting and Lazy-Loading Components
+- [ ] Creating a Suspense-ready Lazy-Load Component
