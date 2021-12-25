@@ -2,8 +2,7 @@
 
 ## 1. Introduction
 
-- [x] The Missing Introduction to React Router
-- [x] Project Walkthrough and Install
+- [x] Introduction to React Router V6 and Installation with Create React App
 
 ## 2. Core Essentials
 
