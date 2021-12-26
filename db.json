@@ -53,6 +53,12 @@
       "name": "Burger House",
       "price": 320,
       "description": "This is the crunchy burger by Burger House"
+    },
+    {
+      "id": "New Burger",
+      "name": "New Burger from Burger House",
+      "price": 50,
+      "description": "This is our latest edition"
     }
   ]
 }
