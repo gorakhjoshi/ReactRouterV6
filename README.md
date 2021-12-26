@@ -17,10 +17,7 @@
 - [x] Relative and Absolute Navigation with <Link />
 - [x] Dynamic Routes, useParams() Hook & Fetching Dynamic Data
 - [x] useNavigate() & useLocation()
-- [ ] Passing State on Navigation alongside useLocation()
-- [ ] Understanding Navigation Deltas with useNavigate()
-- [ ] Domain-Driven Nested Routes
-- [ ] Restricting Access with a <ProtectedRoute /> Component
+- [x] `<ProtectedRoute />`
 
 ## 5. CRUD Operations and Bonus Techniques
 
