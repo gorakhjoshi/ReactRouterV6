@@ -47,18 +47,6 @@
       "name": "Big Cheese",
       "price": 899,
       "description": "Large burger, all the cheese."
-    },
-    {
-      "id": "Crunchy Burger",
-      "name": "Burger House",
-      "price": 320,
-      "description": "This is the crunchy burger by Burger House"
-    },
-    {
-      "id": "New Burger",
-      "name": "New Burger from Burger House",
-      "price": 80,
-      "description": "This is our latest edition"
     }
   ]
 }

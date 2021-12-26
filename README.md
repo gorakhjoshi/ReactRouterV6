@@ -22,9 +22,9 @@
 ## 4. React Router Intermediate Concepts
 
 - [x] Creating a new Product: `C`
-- [ ] Retrieving an existing Product
-- [ ] Updating an existing Product
-- [ ] Deleting an existing Product
+- [x] Retrieving an existing Product: `R`
+- [x] Updating an existing Product: `U`
+- [x] Deleting an existing Product: `D`
 - [ ] Passing Props to Routed Components
 - [ ] Reading Search Params with useSearchParams()
 - [ ] Syncing Search Param State with UI State
