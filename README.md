@@ -10,7 +10,7 @@
 - [x] `<Navigate /> & <Link />`
 - [x] `<NavLink />`
 
-## 4. React Router Advanced Concepts
+## 3. React Router Intermediate Concepts
 
 - [x] `<Outlet />`
 - [x] Fetching Data in Nested Routes
@@ -19,12 +19,9 @@
 - [x] useNavigate() & useLocation()
 - [x] `<ProtectedRoute />`
 
-## 5. CRUD Operations and Bonus Techniques
+## 4. React Router Intermediate Concepts
 
-- [ ] Re-investigating Relative <Link /> Paths
-- [ ] Using <Link /> with Nested Routes
-- [ ] Creating a new Product from a Form
-- [ ] Redirecting upon Product Create
+- [x] Creating a new Product: `C`
 - [ ] Retrieving an existing Product
 - [ ] Updating an existing Product
 - [ ] Deleting an existing Product

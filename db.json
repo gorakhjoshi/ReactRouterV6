@@ -47,6 +47,12 @@
       "name": "Big Cheese",
       "price": 899,
       "description": "Large burger, all the cheese."
+    },
+    {
+      "id": "Crunchy Burger",
+      "name": "Burger House",
+      "price": 320,
+      "description": "This is the crunchy burger by Burger House"
     }
   ]
 }
