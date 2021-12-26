@@ -15,10 +15,7 @@
 - [x] `<Outlet />`
 - [x] Fetching Data in Nested Routes
 - [x] Relative and Absolute Navigation with <Link />
-- [ ] Creating Dynamic Routes
-- [ ] Reading Route Params with useParams() Hook
-- [ ] Fetching Dynamic Data with Route Params
-- [ ] Programmatic Navigation with useNavigate()
+- [x] Dynamic Routes, useParams() Hook & Fetching Dynamic Data
 - [ ] Replacing Router State on Navigation
 - [ ] Passing State on Navigation alongside useLocation()
 - [ ] Understanding Navigation Deltas with useNavigate()
