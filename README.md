@@ -19,17 +19,12 @@
 - [x] useNavigate() & useLocation()
 - [x] `<ProtectedRoute />`
 
-## 4. React Router Intermediate Concepts
+## 4. React Router Advanced Concepts
 
 - [x] Creating a new Product: `C`
 - [x] Retrieving an existing Product: `R`
 - [x] Updating an existing Product: `U`
 - [x] Deleting an existing Product: `D`
 - [x] `useSearchParams()`
-- [ ] Scrolling to Top after Route Transitions
-- [ ] Object-based Route Config with useRoutes()
-
-## 6. Performance Techniques
-
-- [ ] Code Splitting and Lazy-Loading Components
-- [ ] Creating a Suspense-ready Lazy-Load Component
+- [x] `useRoutes()`
+- [x] Optimizing React App

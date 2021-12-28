@@ -16,7 +16,7 @@ const ProductEditStyles = css`
   padding: 15px;
   .ProductEdit {
     &-Input {
-      width: 100%;
+      width: 90%;
       border: 1px solid transparent;
       color: #fff;
       background: #1d1e26;
