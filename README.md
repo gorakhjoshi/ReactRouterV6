@@ -25,10 +25,7 @@
 - [x] Retrieving an existing Product: `R`
 - [x] Updating an existing Product: `U`
 - [x] Deleting an existing Product: `D`
-- [ ] Passing Props to Routed Components
-- [ ] Reading Search Params with useSearchParams()
-- [ ] Syncing Search Param State with UI State
-- [ ] Rendering UI from Search Param State
+- [x] `useSearchParams()`
 - [ ] Scrolling to Top after Route Transitions
 - [ ] Object-based Route Config with useRoutes()
 
